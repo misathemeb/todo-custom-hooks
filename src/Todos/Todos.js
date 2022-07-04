@@ -35,7 +35,7 @@ const Todos = () => {
               onChange={(e) => {
                 setNewTodoText(e.target.value);
               }}
-              placeholder="What do you have to do today?"
+              placeholder="add your tasks to the list"
             />
           </label>
         </form>
