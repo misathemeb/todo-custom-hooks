@@ -22,12 +22,12 @@ export const generateRandomTodos = (count) => {
   const nouns = [
     "bird",
     "clock",
-    "boy",
+    "person",
     "plastic",
-    "duck",
+    "cat",
     "teacher",
-    "old lady",
-    "professor",
+    "computer",
+    "dish",
     "hamster",
     "dog",
   ];
@@ -36,24 +36,24 @@ export const generateRandomTodos = (count) => {
     "ran",
     "flew",
     "dodged",
-    "sliced",
+    "painted",
     "rolled",
-    "died",
+    "skipped",
     "breathed",
     "slept",
-    "killed",
+    "walked",
   ];
   const adjectives = [
     "beautiful",
     "lazy",
     "professional",
     "lovely",
-    "dumb",
+    "silly",
     "rough",
     "soft",
     "hot",
-    "vibrating",
-    "slimy",
+    "funny",
+    "cold",
   ];
   const adverbs = [
     "slowly",
@@ -65,7 +65,7 @@ export const generateRandomTodos = (count) => {
     "proudly",
     "shockingly",
     "calmly",
-    "passionately",
+    "magnificently",
   ];
   const preposition = [
     "down",
